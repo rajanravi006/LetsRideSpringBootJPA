@@ -1,11 +1,11 @@
 # LetsRideSpringBootJPA
 # LetsRideSpringBootJPA
 
-#How to run
+Project Description
 
-1.Run the Spring server.
-2.Open Postman.
-3.Hit the endpoint and get the response.
+There will be 2 persons one is a Rider and the other is an Asset Transportation Requester (will be referred as requester from now on). 
+A Rider is a person who travels from one place to another and is willing to carry some assets(packages/luggages) along with him. 
+A Requester is a person who wants his assets to be carried by someone else from one place to another. 
 
 
 #API Endpoints
